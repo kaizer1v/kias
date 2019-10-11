@@ -25,7 +25,6 @@ logs/
 *.xhtml
 
 # Data files. Try not to commit data into the repo
-*.csv
 *.dat
 *.mdb
 

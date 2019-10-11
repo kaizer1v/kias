@@ -1,0 +1,587 @@
+stop_names,stop_order,bus_no
+Mysore Road Satellite Bus Station-Towards(BHEL),0,10
+Attiguppe (Towards Vijayanagara)-Towards(Vijayanagara),1,10
+Vijayanagara TTMC-Towards(Vijayanagara),2,10
+Vijayanagara-Towards(Magadi Road Tollgate),3,10
+Industrial Area Rajajinagara-Towards(Navarang),4,10
+ESI Hospital Rajajinagara (Towards Yashawanthapura)-Towards(Yashawanthapura),5,10
+1st Block Rajajinagara-Towards(Yashwanthapura TTMC),6,10
+Govt Soap Factory-Towards(Yashwanthapura TTMC),7,10
+Yeshwanthapura TTMC-Towards(Malleshwaram),8,10
+Tata Institute-Towards(Mekhri Circle),9,10
+CPRI-Towards(Mekhri Circle),10,10
+Mekhri Circle-Towards(Hebbala),11,10
+CBI (Towards Hebbala)-Towards(Hebbala),12,10
+Canara Bank Hebbala-Towards(Hebbala),13,10
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),14,10
+Military Dairy Farm-Towards(Yalahanka),15,10
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),16,10
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),17,10
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),18,10
+Kogilu Cross-Towards(Devanahalli),19,10
+Venkatala-Towards(Devanahalli),20,10
+Indian Air Force-Towards(Devanahalli),21,10
+Hunasamaranahalli-Towards(Devanahalli),22,10
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),23,10
+Chikkajala-Towards(Devanahalli),24,10
+Sadahalli Gate-Towards(Devanahalli),25,10
+Trumpet-Towards(Kempegowda International Airport),26,10
+Kempegowda International Airport-Towards(Last Bus Stop ),27,10
+Mysore Road Satellite Bus Station-Towards(BHEL),0,10A
+Attiguppe (Towards Vijayanagara)-Towards(Vijayanagara),1,10A
+Vijayanagara TTMC-Towards(Vijayanagara),2,10A
+Vijayanagara-Towards(Magadi Road Tollgate),3,10A
+Industrial Area Rajajinagara-Towards(Navarang),4,10A
+ESI Hospital Rajajinagara (Towards Yashawanthapura)-Towards(Yashawanthapura),5,10A
+1st Block Rajajinagara-Towards(Yashwanthapura TTMC),6,10A
+Govt Soap Factory-Towards(Yashwanthapura TTMC),7,10A
+Yeshwanthapura TTMC-Towards(Malleshwaram),8,10A
+Tata Institute-Towards(Mekhri Circle),9,10A
+Police Station Sadashivanagara-Towards(MS Ramaiah College),10,10A
+CPRI Quarters-Towards(Ramaiah Hospital),11,10A
+MS Ramaiah Hospital-Towards(BEL Circle),12,10A
+ITI Layout-Towards(Devasandra Chilkkamaranahalli),13,10A
+Devasandra Chikkamaranahalli-Towards(Kuvempu Circle),14,10A
+Kuvempu Circle-Towards(Hebbala),15,10A
+Devinagara-Towards(Hebbala),16,10A
+Hebbala Bridge (Towards Yalahanka)-Towards(Yalahanka),17,10A
+Military Dairy Farm-Towards(Yalahanka),18,10A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),19,10A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),20,10A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),21,10A
+Kogilu Cross-Towards(Devanahalli),22,10A
+Venkatala-Towards(Devanahalli),23,10A
+Indian Air Force-Towards(Devanahalli),24,10A
+Hunasamaranahalli-Towards(Devanahalli),25,10A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),26,10A
+Chikkajala-Towards(Devanahalli),27,10A
+Sadahalli Gate-Towards(Devanahalli),28,10A
+Trumpet-Towards(Kempegowda International Airport),29,10A
+Kempegowda International Airport-Towards(Last Bus Stop ),30,10A
+BTM Layout Kuvempu Nagara-Towards(BTM Layout (Kuvempu Nagara)),0,12
+16th Main BTM Layout -Towards(Banashankari TTMC),1,12
+MICO Layout Checkpost Gopalan mall -Towards(JP Nagara 3rd Phase),2,12
+JP Nagara 3rd Phase-Towards(JP Nagara),3,12
+Ragigudda Temple-Towards(Banashankari TTMC),4,12
+Jayanagara TTMC-Towards(Departure),5,12
+Ashoka Pillar-Towards(Wilson Garden),6,12
+Wilson Garden Police Station-Towards(Shanthi Nagara),7,12
+Shanthinagara TTMC-Towards(KH Road),8,12
+Pallavi Talkies-Towards(Kempegowda Bus Station),9,12
+Mysore Bank-Towards(Kempegowda Bus Station),10,12
+SOPHIYA School-Towards(Guttahalli),11,12
+RM Guttahalli-Towards(Mekhri Circle),12,12
+Mekhri Circle-Towards(Hebbala),13,12
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),14,12
+Military Dairy Farm-Towards(Yalahanka),15,12
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),16,12
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),17,12
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),18,12
+Kogilu Cross-Towards(Devanahalli),19,12
+Venkatala-Towards(Devanahalli),20,12
+Indian Air Force-Towards(Devanahalli),21,12
+Hunasamaranahalli-Towards(Devanahalli),22,12
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),23,12
+Chikkajala-Towards(Devanahalli),24,12
+Sadahalli Gate-Towards(Devanahalli),25,12
+Trumpet-Towards(Kempegowda International Airport),26,12
+Kempegowda International Airport-Towards(Last Bus Stop ),27,12
+Royal Meenakshi Mall BG Road-Towards(Hulimavu Gate),0,14
+Hulimavu Gate (Towards Jayadeva Hospital)-Towards(Jayadeva Hospital),1,14
+Bilekahalli-Towards(JP Nagara 3rd Phase),2,14
+Gurappanapalya-Towards(Bengaluru Dairy Circle),3,14
+Bengaluru Dairy Circle (Towards Jayadeva Hospital)-Towards(jayadeva hospital),4,14
+Wilson Garden Police Station-Towards(Shanthi Nagara),5,14
+Shanthinagara TTMC-Towards(KH Road),6,14
+Richmond Circle-Towards(HAL),7,14
+SOPHIYA School-Towards(Guttahalli),8,14
+RM Guttahalli-Towards(Mekhri Circle),9,14
+Mekhri Circle-Towards(Hebbala),10,14
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),11,14
+Military Dairy Farm-Towards(Yalahanka),12,14
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),13,14
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),14,14
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),15,14
+Kogilu Cross-Towards(Devanahalli),16,14
+Venkatala-Towards(Devanahalli),17,14
+Indian Air Force-Towards(Devanahalli),18,14
+Hunasamaranahalli-Towards(Devanahalli),19,14
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),20,14
+Chikkajala-Towards(Devanahalli),21,14
+Sadahalli Gate-Towards(Devanahalli),22,14
+Trumpet-Towards(Kempegowda International Airport),23,14
+Kempegowda International Airport-Towards(Last Bus Stop ),24,14
+White Field TTMC (Vydehi Hospital)-Towards(Departure),0,15
+Sathya Sai Hospital-Towards(ITPL),1,15
+ITPL-Towards(Hope Farm),2,15
+Hope Farm (Towards Hoskote)-Towards(Hoskote),3,15
+Kadugodi Bridge-Towards(Hoskote),4,15
+Bellathur-Towards(Hoskote),5,15
+Seegehalli Gate-Towards(Hoskote),6,15
+Khaji Sonnenahalli Gate-Towards(Hoskote),7,15
+Budigere Cross (Towards Budigere)-Towards(Budigere),8,15
+Grandwell-Towards(Budigere),9,15
+Mandur-Towards(Budigere),10,15
+Thirumenahalli Gate-Towards(Budigere),11,15
+Budigere (Towards Devanahalli)-Towards(Devanahalli),12,15
+Manchappanahalli Gate-Towards(Devanahalli),13,15
+Singahalli-Towards(Hunasuru),14,15
+Hunasuru-Towards(Mylanahalli),15,15
+Kadayarappanahalli-Towards(Kadayarappanahalli),16,15
+Chikkanahalli (Towards Beguru)-Towards(Beguru),17,15
+Beguru (Towards Yalahanka)-Towards(Yalahanka),18,15
+Kempegowda International Airport-Towards(Last Bus Stop ),19,15
+HAL Main Gate (Towards Marathahalli Bridge)-Towards(Marathahalli Bridge),0,4
+Jeevanbheema Nagara Cross-Towards(Jeevan Bheema Nagara),1,4
+Thippasandra-Towards(Halasuru),2,4
+Police Station Indiranagara-Towards(Halasuru),3,4
+Halasuru-Towards(Kempegowda Bus Station),4,4
+MEG Centre-Towards(Shivaji Nagara),5,4
+Coles Park (Towards Thomas Cafe)-Towards(Thomas Cafe),6,4
+Millers Road-Towards(Nandidurga Road),7,4
+JC Nagara-Towards(Mekhri Circle),8,4
+Mekhri Circle-Towards(Hebbala),9,4
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),10,4
+Military Dairy Farm-Towards(Yalahanka),11,4
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),12,4
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),13,4
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),14,4
+Kogilu Cross-Towards(Devanahalli),15,4
+Venkatala-Towards(Devanahalli),16,4
+Indian Air Force-Towards(Devanahalli),17,4
+Hunasamaranahalli-Towards(Devanahalli),18,4
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),19,4
+Chikkajala-Towards(Devanahalli),20,4
+Sadahalli Gate-Towards(Devanahalli),21,4
+Trumpet-Towards(Kempegowda International Airport),22,4
+Kempegowda International Airport-Towards(Last Bus Stop ),23,4
+White Field TTMC (Vydehi Hospital)-Towards(Departure),0,4A
+Graphite India (Towards Kundalahalli Colony)-Towards(Kundalahalli Colony),1,4A
+AECS Layout Cross-Towards(Kundalahalli Gate),2,4A
+Kundalahalli Gate-Towards(Marathahalli Bridge),3,4A
+Marathahalli Bridge-Towards(Kempegowda Bus Station),4,4A
+Marathahalli-Towards(Domlur),5,4A
+HAL Kalyana Mantap-Towards(Kempegowda Bus Station),6,4A
+HAL Main Gate (Towards NGEF)-Towards(NGEF),7,4A
+Jeevanbheema Nagara Cross-Towards(Jeevan Bheema Nagara),8,4A
+Thippasandra-Towards(Halasuru),9,4A
+Police Station Indiranagara-Towards(Halasuru),10,4A
+Halasuru-Towards(Kempegowda Bus Station),11,4A
+MEG Centre-Towards(Shivaji Nagara),12,4A
+Coles Park (Towards Thomas Cafe)-Towards(Thomas Cafe),13,4A
+Millers Road-Towards(Nandidurga Road),14,4A
+JC Nagara-Towards(Mekhri Circle),15,4A
+Mekhri Circle-Towards(Hebbala),16,4A
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),17,4A
+Military Dairy Farm-Towards(Yalahanka),18,4A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),19,4A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),20,4A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),21,4A
+Kogilu Cross-Towards(Devanahalli),22,4A
+Venkatala-Towards(Devanahalli),23,4A
+Indian Air Force-Towards(Devanahalli),24,4A
+Hunasamaranahalli-Towards(Devanahalli),25,4A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),26,4A
+Chikkajala-Towards(Devanahalli),27,4A
+Sadahalli Gate-Towards(Devanahalli),28,4A
+Trumpet-Towards(Kempegowda International Airport),29,4A
+Kempegowda International Airport-Towards(Last Bus Stop ),30,4A
+Banashankari TTMC-Towards(Departure),0,5
+JP Nagara 6th Phase-Towards(JP Nagara 15th Cross),1,5
+RV Dental College-Towards(Jayanagara TTMC),2,5
+5th Block Jayanagara (Towards Jayanagara)-Towards(Jayanagara),3,5
+Jayanagara TTMC-Towards(Departure),4,5
+Ashoka Pillar-Towards(Wilson Garden),5,5
+Wilson Garden Police Station-Towards(Shanthi Nagara),6,5
+Shanthinagara TTMC-Towards(KH Road),7,5
+Richmond Circle-Towards(HAL),8,5
+SOPHIYA School-Towards(Guttahalli),9,5
+RM Guttahalli-Towards(Mekhri Circle),10,5
+Mekhri Circle-Towards(Hebbala),11,5
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),12,5
+Military Dairy Farm-Towards(Yalahanka),13,5
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),14,5
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),15,5
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),16,5
+Kogilu Cross-Towards(Devanahalli),17,5
+Venkatala-Towards(Devanahalli),18,5
+Indian Air Force-Towards(Devanahalli),19,5
+Hunasamaranahalli-Towards(Devanahalli),20,5
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),21,5
+Chikkajala-Towards(Devanahalli),22,5
+Sadahalli Gate-Towards(Devanahalli),23,5
+Trumpet-Towards(Kempegowda International Airport),24,5
+Kempegowda International Airport-Towards(Last Bus Stop ),25,5
+Jambu Savari Dinne-Towards(Kothanuru Dinne),0,5A
+Surabhi Layout-Towards(Kothanuru Dinne),1,5A
+BK Circle (Towards Kothanuru Dinne Water Tank)-Towards(Kothanuru Dinne Water Tank),2,5A
+Water Tank Kothanur Dinne-Towards(Puttenahalli),3,5A
+Kothanuru Dinne Ganesha Temple-Towards(Puttenahalli),4,5A
+Navodaya Nagara-Towards(JP Nagara 15th Cross),5,5A
+Gowrava Nagara-Towards(JP Nagara 15th Cross),6,5A
+RBI Layout-Towards(JP Nagara 1st Phasse),7,5A
+Brigade Millenium-Towards(JP Nagara 15th Cross),8,5A
+Puttenahallipalya-Towards(JP Nagara),9,5A
+Puttenahalli-Towards(JP Nagara 1 Phase),10,5A
+Oxford Dental College-Towards(Oxford College),11,5A
+JP Nagara 15th Cross-Towards(RV Dental College),12,5A
+RV Dental College-Towards(Jayanagara TTMC),13,5A
+5th Block Jayanagara (Towards Jayanagara)-Towards(Jayanagara),14,5A
+Jayanagara TTMC-Towards(Departure),15,5A
+Ashoka Pillar-Towards(Wilson Garden),16,5A
+Wilson Garden Police Station-Towards(Shanthi Nagara),17,5A
+Shanthinagara TTMC-Towards(KH Road),18,5A
+Richmond Circle-Towards(HAL),19,5A
+SOPHIYA School-Towards(Guttahalli),20,5A
+RM Guttahalli-Towards(Mekhri Circle),21,5A
+Mekhri Circle-Towards(Hebbala),22,5A
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),23,5A
+Military Dairy Farm-Towards(Yalahanka),24,5A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),25,5A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),26,5A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),27,5A
+Kogilu Cross-Towards(Devanahalli),28,5A
+Venkatala-Towards(Devanahalli),29,5A
+Indian Air Force-Towards(Devanahalli),30,5A
+Hunasamaranahalli-Towards(Devanahalli),31,5A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),32,5A
+Chikkajala-Towards(Devanahalli),33,5A
+Sadahalli Gate-Towards(Devanahalli),34,5A
+Trumpet-Towards(Kempegowda International Airport),35,5A
+Kempegowda International Airport-Towards(Last Bus Stop ),36,5A
+Kadugodi Bus Station-Towards(Kadugodi Bus Station),0,6
+Hope Farm (Towards Varthuru)-Towards(Varthuru),1,6
+White Field Post Office-Towards(Varthuru),2,6
+Varthur Kodi-Towards(Marathahalli),3,6
+Siddapura-Towards(Marathahalli),4,6
+Kundalahalli Gate-Towards(Marathahalli Bridge),5,6
+Marathahalli Bridge-Towards(Hebbala),6,6
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),7,6
+Mahadevapura Ring Road-Towards(Hebbala),8,6
+Railway Station KR Puram-Towards(Tin Factory),9,6
+Kasthuri Nagara Ring Road-Towards(Hebbala),10,6
+Ramamurthy Nagara Ring Road-Towards(Hebbala),11,6
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),12,6
+Kalyananagara-Towards(Hebbala),13,6
+Jn of Nagawara-Towards(Hebbala),14,6
+Veeranapalya-Towards(Hebbala),15,6
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),16,6
+Military Dairy Farm-Towards(Yalahanka),17,6
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),18,6
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),19,6
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),20,6
+Kogilu Cross-Towards(Devanahalli),21,6
+Venkatala-Towards(Devanahalli),22,6
+Indian Air Force-Towards(Devanahalli),23,6
+Hunasamaranahalli-Towards(Devanahalli),24,6
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),25,6
+Chikkajala-Towards(Devanahalli),26,6
+Sadahalli Gate-Towards(Devanahalli),27,6
+Trumpet-Towards(Kempegowda International Airport),28,6
+Kempegowda International Airport-Towards(Last Bus Stop ),29,6
+Kadugodi Bus Station-Towards(Kadugodi Bus Station),0,6A
+Hope Farm (Towards ITPL)-Towards(ITPL),1,6A
+Pattandur Agrahara Gate-Towards(Kempegowda Bus Station),2,6A
+Hoodi (Towards ITPL)-Towards(ITPL),3,6A
+Garudacharpalya-Towards(Kempegowda Bus Station),4,6A
+Mahadevapura-Towards(Kempegowda Bus Station),5,6A
+Railway Station KR Puram-Towards(Tin Factory),6,6A
+Kasthuri Nagara Ring Road-Towards(Hebbala),7,6A
+Ramamurthy Nagara Ring Road-Towards(Hebbala),8,6A
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),9,6A
+Kalyananagara-Towards(Hebbala),10,6A
+Jn of Nagawara-Towards(Hebbala),11,6A
+Veeranapalya-Towards(Hebbala),12,6A
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),13,6A
+Military Dairy Farm-Towards(Yalahanka),14,6A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),15,6A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),16,6A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),17,6A
+Kogilu Cross-Towards(Devanahalli),18,6A
+Venkatala-Towards(Devanahalli),19,6A
+Indian Air Force-Towards(Devanahalli),20,6A
+Hunasamaranahalli-Towards(Devanahalli),21,6A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),22,6A
+Chikkajala-Towards(Devanahalli),23,6A
+Sadahalli Gate-Towards(Devanahalli),24,6A
+Trumpet-Towards(Kempegowda International Airport),25,6A
+Kempegowda International Airport-Towards(Last Bus Stop ),26,6A
+KR Puram Govt Hospital-Towards(Kempegowda Bus Station),0,6K
+Tin Factory-Towards(Hebbala),1,6K
+Kasthuri Nagara Ring Road-Towards(Hebbala),2,6K
+Ramamurthy Nagara Ring Road-Towards(Hebbala),3,6K
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),4,6K
+Kalyananagara-Towards(Hebbala),5,6K
+Jn of Nagawara-Towards(Hebbala),6,6K
+Veeranapalya-Towards(Hebbala),7,6K
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),8,6K
+Military Dairy Farm-Towards(Yalahanka),9,6K
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),10,6K
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),11,6K
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),12,6K
+Kogilu Cross-Towards(Devanahalli),13,6K
+Venkatala-Towards(Devanahalli),14,6K
+Indian Air Force-Towards(Devanahalli),15,6K
+Hunasamaranahalli-Towards(Devanahalli),16,6K
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),17,6K
+Chikkajala-Towards(Devanahalli),18,6K
+Sadahalli Gate-Towards(Devanahalli),19,6K
+Trumpet-Towards(Kempegowda International Airport),20,6K
+Kempegowda International Airport-Towards(Last Bus Stop ),21,6K
+BDA Complex HSR Layout-Towards(HSR Layout 14th Main Ring Road),0,7
+Jakkasandra-Towards(Dairy Circle),1,7
+John Fowler-Towards(Dairy Circle),2,7
+Jn of Hosur Road-Towards(Dairy Cirlce),3,7
+Bengaluru Dairy Circle (Towards Lakkasandra)-Towards(Lakkasandra),4,7
+Wilson Garden Police Station-Towards(Shanthi Nagara),5,7
+Shanthinagara TTMC-Towards(KH Road),6,7
+Richmond Circle-Towards(HAL),7,7
+Cunningham Road-Towards(Vasantha Nagara),8,7
+RM Guttahalli-Towards(Mekhri Circle),9,7
+Mekhri Circle-Towards(Hebbala),10,7
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),11,7
+Military Dairy Farm-Towards(Yalahanka),12,7
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),13,7
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),14,7
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),15,7
+Kogilu Cross-Towards(Devanahalli),16,7
+Venkatala-Towards(Devanahalli),17,7
+Indian Air Force-Towards(Devanahalli),18,7
+Hunasamaranahalli-Towards(Devanahalli),19,7
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),20,7
+Chikkajala-Towards(Devanahalli),21,7
+Sadahalli Gate-Towards(Devanahalli),22,7
+Trumpet-Towards(Kempegowda International Airport),23,7
+Kempegowda International Airport-Towards(Last Bus Stop ),24,7
+BDA Complex HSR Layout-Towards(HSR Layout 14th Main Ring Road),0,7A
+Jakkasandra-Towards(Dairy Circle),1,7A
+Sony World 80ft Road  Koramangala-Towards(Indira Nagara),2,7A
+Military Bridge-Towards(Domlur Bridge),3,7A
+Domlur (Towards Commando Hospital)-Towards(Commando Hospital),4,7A
+Military Accounts Office-Towards(Trinity Circle),5,7A
+MG Road-Towards(Shivaji Nagara),6,7A
+Shivajinagara Bus Station-Towards(Arrival),7,7A
+SOPHIYA School-Towards(Guttahalli),8,7A
+RM Guttahalli-Towards(Mekhri Circle),9,7A
+Mekhri Circle-Towards(Hebbala),10,7A
+Hebbala (Towards Yalahanka)-Towards(Yalahanka),11,7A
+Military Dairy Farm-Towards(Yalahanka),12,7A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),13,7A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),14,7A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),15,7A
+Kogilu Cross-Towards(Devanahalli),16,7A
+Venkatala-Towards(Devanahalli),17,7A
+Indian Air Force-Towards(Devanahalli),18,7A
+Hunasamaranahalli-Towards(Devanahalli),19,7A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),20,7A
+Chikkajala-Towards(Devanahalli),21,7A
+Sadahalli Gate-Towards(Devanahalli),22,7A
+Trumpet-Towards(Kempegowda International Airport),23,7A
+Kempegowda International Airport-Towards(Last Bus Stop ),24,7A
+Electronic City (Towards Bommanahalli)-Towards(Bommanahalli),0,8
+Konappana Agarhara-Towards(Madivala),1,8
+Hosa Road (Towards Singsandra)-Towards(Singsandra),2,8
+Singasandra-Towards(Bommanahalli),3,8
+Kudlu Gate-Towards(Madivala),4,8
+Bommanahalli (Towards St Johns)-Towards(St Johns),5,8
+SI Apartment HSR Layout-Towards(Hebbala),6,8
+Depot-25 Gate (Towards Hebbala)-Towards(Hebbala),7,8
+Agara Junction-Towards(Banashankari),8,8
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),9,8
+Bellanduru-Towards(Marathahalli Bridge),10,8
+Kadabisanahalli-Towards(Hebbala),11,8
+Marathahalli Bridge-Towards(Hebbala),12,8
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),13,8
+Mahadevapura Ring Road-Towards(Hebbala),14,8
+Railway Station KR Puram-Towards(Tin Factory),15,8
+Kasthuri Nagara Ring Road-Towards(Hebbala),16,8
+Ramamurthy Nagara Ring Road-Towards(Hebbala),17,8
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),18,8
+Kalyananagara-Towards(Hebbala),19,8
+Jn of Nagawara-Towards(Hebbala),20,8
+Veeranapalya-Towards(Hebbala),21,8
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),22,8
+Military Dairy Farm-Towards(Yalahanka),23,8
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),24,8
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),25,8
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),26,8
+Kogilu Cross-Towards(Devanahalli),27,8
+Venkatala-Towards(Devanahalli),28,8
+Indian Air Force-Towards(Devanahalli),29,8
+Hunasamaranahalli-Towards(Devanahalli),30,8
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),31,8
+Chikkajala-Towards(Devanahalli),32,8
+Sadahalli Gate-Towards(Devanahalli),33,8
+Trumpet-Towards(Kempegowda International Airport),34,8
+Kempegowda International Airport-Towards(Last Bus Stop ),35,8
+BTM Layout Kuvempu Nagara-Towards(BTM Layout (Kuvempu Nagara)),0,8A
+SI Apartment HSR Layout-Towards(Hebbala),1,8A
+Depot-25 Gate (Towards Hebbala)-Towards(Hebbala),2,8A
+Agara Junction-Towards(Banashankari),3,8A
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),4,8A
+Bellanduru-Towards(Marathahalli Bridge),5,8A
+Kadabisanahalli-Towards(Hebbala),6,8A
+Marathahalli Bridge-Towards(Hebbala),7,8A
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),8,8A
+Mahadevapura Ring Road-Towards(Hebbala),9,8A
+Railway Station KR Puram-Towards(Tin Factory),10,8A
+Kasthuri Nagara Ring Road-Towards(Hebbala),11,8A
+Ramamurthy Nagara Ring Road-Towards(Hebbala),12,8A
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),13,8A
+Kalyananagara-Towards(Hebbala),14,8A
+Jn of Nagawara-Towards(Hebbala),15,8A
+Veeranapalya-Towards(Hebbala),16,8A
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),17,8A
+Military Dairy Farm-Towards(Yalahanka),18,8A
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),19,8A
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),20,8A
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),21,8A
+Kogilu Cross-Towards(Devanahalli),22,8A
+Venkatala-Towards(Devanahalli),23,8A
+Indian Air Force-Towards(Devanahalli),24,8A
+Hunasamaranahalli-Towards(Devanahalli),25,8A
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),26,8A
+Chikkajala-Towards(Devanahalli),27,8A
+Sadahalli Gate-Towards(Devanahalli),28,8A
+Trumpet-Towards(Kempegowda International Airport),29,8A
+Kempegowda International Airport-Towards(Last Bus Stop ),30,8A
+Chandapura (Towards Electronic City)-Towards(Electronic City),0,8C
+BTL College-Towards(Bommasandra),1,8C
+Hebbagodi-Towards(Electronic City),2,8C
+Electronic City (Towards Bommanahalli)-Towards(Bommanahalli),3,8C
+Konappana Agarhara-Towards(Madivala),4,8C
+Hosa Road (Towards Singsandra)-Towards(Singsandra),5,8C
+Singasandra-Towards(Bommanahalli),6,8C
+Kudlu Gate-Towards(Madivala),7,8C
+Bommanahalli (Towards St Johns)-Towards(St Johns),8,8C
+SI Apartment HSR Layout-Towards(Hebbala),9,8C
+Depot-25 Gate (Towards Hebbala)-Towards(Hebbala),10,8C
+Agara Junction-Towards(Banashankari),11,8C
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),12,8C
+Bellanduru-Towards(Marathahalli Bridge),13,8C
+Kadabisanahalli-Towards(Hebbala),14,8C
+Marathahalli Bridge-Towards(Hebbala),15,8C
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),16,8C
+Mahadevapura Ring Road-Towards(Hebbala),17,8C
+Railway Station KR Puram-Towards(Tin Factory),18,8C
+Kasthuri Nagara Ring Road-Towards(Hebbala),19,8C
+Ramamurthy Nagara Ring Road-Towards(Hebbala),20,8C
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),21,8C
+Kalyananagara-Towards(Hebbala),22,8C
+Jn of Nagawara-Towards(Hebbala),23,8C
+Veeranapalya-Towards(Hebbala),24,8C
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),25,8C
+Military Dairy Farm-Towards(Yalahanka),26,8C
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),27,8C
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),28,8C
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),29,8C
+Kogilu Cross-Towards(Devanahalli),30,8C
+Venkatala-Towards(Devanahalli),31,8C
+Indian Air Force-Towards(Devanahalli),32,8C
+Hunasamaranahalli-Towards(Devanahalli),33,8C
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),34,8C
+Chikkajala-Towards(Devanahalli),35,8C
+Sadahalli Gate-Towards(Devanahalli),36,8C
+Trumpet-Towards(Kempegowda International Airport),37,8C
+Kempegowda International Airport-Towards(Last Bus Stop ),38,8C
+Doddakannalli-Towards(KR Market),0,8D
+Kaikondrahalli-Towards(Bellanduru Gate (SJP Road)),1,8D
+Bellanduru Gate SJP Road -Towards(Lakkasandra),2,8D
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),3,8D
+Kadabisanahalli-Towards(Hebbala),4,8D
+Marathahalli Bridge-Towards(Hebbala),5,8D
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),6,8D
+Mahadevapura Ring Road-Towards(Hebbala),7,8D
+Railway Station KR Puram-Towards(Tin Factory),8,8D
+Kasthuri Nagara Ring Road-Towards(Hebbala),9,8D
+Ramamurthy Nagara Ring Road-Towards(Hebbala),10,8D
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),11,8D
+Kalyananagara-Towards(Hebbala),12,8D
+Jn of Nagawara-Towards(Hebbala),13,8D
+Veeranapalya-Towards(Hebbala),14,8D
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),15,8D
+Military Dairy Farm-Towards(Yalahanka),16,8D
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),17,8D
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),18,8D
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),19,8D
+Kogilu Cross-Towards(Devanahalli),20,8D
+Venkatala-Towards(Devanahalli),21,8D
+Indian Air Force-Towards(Devanahalli),22,8D
+Hunasamaranahalli-Towards(Devanahalli),23,8D
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),24,8D
+Chikkajala-Towards(Devanahalli),25,8D
+Sadahalli Gate-Towards(Devanahalli),26,8D
+Trumpet-Towards(Kempegowda International Airport),27,8D
+Kempegowda International Airport-Towards(Last Bus Stop ),28,8D
+ELC Wipro Main  Gate-Towards(ELC Wipro Gate),0,8E
+Electronic City (Towards Central Silk Board)-Towards(Central Central Silk Board),1,8E
+Konappana Agarhara-Towards(Madivala),2,8E
+Hosa Road (Towards Singsandra)-Towards(Singsandra),3,8E
+Singasandra-Towards(Bommanahalli),4,8E
+Kudlu Gate-Towards(Madivala),5,8E
+Bommanahalli (Towards St Johns)-Towards(St Johns),6,8E
+SI Apartment HSR Layout-Towards(Hebbala),7,8E
+Depot-25 Gate (Towards Hebbala)-Towards(Hebbala),8,8E
+Agara Junction-Towards(Banashankari),9,8E
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),10,8E
+Bellanduru-Towards(Marathahalli Bridge),11,8E
+Kadabisanahalli-Towards(Hebbala),12,8E
+Marathahalli Bridge-Towards(Hebbala),13,8E
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),14,8E
+Mahadevapura Ring Road-Towards(Hebbala),15,8E
+Railway Station KR Puram-Towards(Tin Factory),16,8E
+Kasthuri Nagara Ring Road-Towards(Hebbala),17,8E
+Ramamurthy Nagara Ring Road-Towards(Hebbala),18,8E
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),19,8E
+Kalyananagara-Towards(Hebbala),20,8E
+Hennur Cross (Towards HBR Layout 5th Block)-Towards(HBR Layout 5th Block),21,8E
+Geddalahalli (Towards Byrathi Bande)-Towards(Byrathi Bande),22,8E
+Kothanuru -Towards(Byrathi Bande),23,8E
+Byrathi Bande-Towards(Kannuru ),24,8E
+Kannuru-Towards(Mittaganahalli),25,8E
+Hosuru Bande-Towards(Mittaganahalli),26,8E
+Chakkalatti-Towards(Bagaluru),27,8E
+Bagalur (Towards Hoovinayakanahalli)-Towards(Hoovinayakanahalli),28,8E
+KIADB Hoovinayakanahalli Gate -Towards(Bande Kodigehalli),29,8E
+Bande Kodigehallipalya-Towards(Mylanahalli),30,8E
+Mylanahalli-Towards(Muthugadahalli),31,8E
+Beguru (Towards Yalahanka)-Towards(Yalahanka),32,8E
+Kempegowda International Airport-Towards(Last Bus Stop ),33,8E
+ELC Wipro Main  Gate-Towards(ELC Wipro Gate),0,8EW
+Infosys Parking Lot-Towards(Electronic City),1,8EW
+Electronic City (Towards Madivala)-Towards(Madivala),2,8EW
+Konappana Agarhara-Towards(Madivala),3,8EW
+Hosa Road (Towards Singsandra)-Towards(Singsandra),4,8EW
+Singasandra-Towards(Bommanahalli),5,8EW
+Kudlu Gate-Towards(Madivala),6,8EW
+Bommanahalli (Towards St Johns)-Towards(St Johns),7,8EW
+SI Apartment HSR Layout-Towards(Hebbala),8,8EW
+Depot-25 Gate (Towards Hebbala)-Towards(Hebbala),9,8EW
+Agara Junction-Towards(Banashankari),10,8EW
+Jn of Sarjapura Ring Road -Towards(Marathahalli Bridge),11,8EW
+Bellanduru-Towards(Marathahalli Bridge),12,8EW
+Kadabisanahalli-Towards(Hebbala),13,8EW
+Marathahalli Bridge-Towards(Hebbala),14,8EW
+Dodda Nekkundi (Towards Hebbala)-Towards(Hebbala),15,8EW
+Mahadevapura Ring Road-Towards(Hebbala),16,8EW
+Railway Station KR Puram-Towards(Tin Factory),17,8EW
+Kasthuri Nagara Ring Road-Towards(Hebbala),18,8EW
+Ramamurthy Nagara Ring Road-Towards(Hebbala),19,8EW
+Babusabpalya (Towards Hebbala)-Towards(Hebbala),20,8EW
+Kalyananagara-Towards(Hebbala),21,8EW
+Jn of Nagawara-Towards(Hebbala),22,8EW
+Veeranapalya-Towards(Hebbala),23,8EW
+Hebbala Bridge (Towards Bhadrappa Layout)-Towards(Bhadrappa Layout),24,8EW
+Military Dairy Farm-Towards(Yalahanka),25,8EW
+Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport),26,8EW
+Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka),27,8EW
+Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka),28,8EW
+Kogilu Cross-Towards(Devanahalli),29,8EW
+Venkatala-Towards(Devanahalli),30,8EW
+Indian Air Force-Towards(Devanahalli),31,8EW
+Hunasamaranahalli-Towards(Devanahalli),32,8EW
+Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli),33,8EW
+Chikkajala-Towards(Devanahalli),34,8EW
+Sadahalli Gate-Towards(Devanahalli),35,8EW
+Trumpet-Towards(Kempegowda International Airport),36,8EW
+Kempegowda International Airport-Towards(Last Bus Stop ),37,8EW
