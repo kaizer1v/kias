@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<link href="css/trip_plan.css" rel="stylesheet" type="text/css" />
+<link href="css/trip_ui.css" rel="stylesheet" type="text/css" />
+<!-- <html> -->
+<!-- <head> -->
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> -->
+<!-- <title>Insert title here</title> -->
+<!-- </head> -->
+<!-- <body> -->
+<!-- </body> -->
+<!-- </html> -->
+<style>
+  thead {color:green;}
+tbody {color:blue;}
+tfoot {color:red;}
+
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+<script type="text/javascript">
+var popupWindow = null;
+
+function printpage() {
+  //  alert("HII");
+  window.print();
+}
+</script>
+<div class="block block-system no-title" id="block-system-main">
+  <table cellpadding="0" cellspacing="0" id="routes" width="100%">
+    <tbody>
+      <td id="routes-result-header">
+        <span class="trip-route-label">
+          <img align="absmiddle" alt="" src="http://mybmtc.com/sites/all/images/busicon.png" />
+        </span>
+        Route No: KIAS-KIAS-10
+      </td>
+      <td id="routes-result-header">
+        <a href="javascript:printpage()" id="custom-print-id">
+          <img alt="Print" border="0" src="http://mybmtc.com/sites/all/images/Print.png" style="float:right;" />
+        </a>
+      </td>
+    </tbody>
+  </table>
+</div>
+<tr class="odd">
+  <td colspan="2">
+    <table cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+        <table>
+          <thead>
+            <tr>
+              <th>
+                BusStopName
+              </th>
+              <th>
+                Fare Stage
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Mysore Road Satellite Bus Station-Towards(BHEL)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Attiguppe (Towards Vijayanagara)-Towards(Vijayanagara)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Vijayanagara TTMC-Towards(Vijayanagara)
+              </td>
+              <td>
+                N
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Vijayanagara-Towards(Magadi Road Tollgate)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Industrial Area Rajajinagara-Towards(Navarang)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                ESI Hospital Rajajinagara (Towards Yashawanthapura)-Towards(Yashawanthapura)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                1st Block Rajajinagara-Towards(Yashwanthapura TTMC)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Govt Soap Factory-Towards(Yashwanthapura TTMC)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Yeshwanthapura TTMC-Towards(Malleshwaram)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Tata Institute-Towards(Mekhri Circle)
+              </td>
+              <td>
+                N
+              </td>
+            </tr>
+            <tr>
+              <td>
+                CPRI-Towards(Mekhri Circle)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Mekhri Circle-Towards(Hebbala)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                CBI (Towards Hebbala)-Towards(Hebbala)
+              </td>
+              <td>
+                N
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Canara Bank Hebbala-Towards(Hebbala)
+              </td>
+              <td>
+                N
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Hebbala (Towards Yalahanka)-Towards(Yalahanka)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Military Dairy Farm-Towards(Yalahanka)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Navayuga Devanahalli Toll Plaza (KIAS Service)-Towards(Kempegowda International Airport)
+              </td>
+              <td>
+                N
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Byatarayanapura (Towards Yalahanka)-Towards(Yalahanka)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Allalasandra Gate (Towards Kogilu Cross)-Towards(Yalahanka)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Kogilu Cross-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Venkatala-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Indian Air Force-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Hunasamaranahalli-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Bettahalasuru Cross (Towards Devanahalli)-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Chikkajala-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Sadahalli Gate-Towards(Devanahalli)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Trumpet-Towards(Kempegowda International Airport)
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Kempegowda International Airport-Towards(Last Bus Stop )
+              </td>
+              <td>
+                Y
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </tbody>
+    </table>
+  </td>
+</tr>
